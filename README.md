@@ -70,10 +70,6 @@ This project was created to practice and demonstrate modern **React.js and front
 
 ![Shopping Cart](./screenshots/cart.png)
 
-### 💳 Checkout
-
-![Checkout](./screenshots/checkout.png)
-
 ---
 
 ## 🚀 Getting Started
@@ -81,7 +77,7 @@ This project was created to practice and demonstrate modern **React.js and front
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/shopease-react-ecommerce.git
+git clone https://github.com/lovekumar2005/shopease-react-ecommerce.git
 ```
 
 ### Install dependencies
@@ -129,7 +125,7 @@ src/
 
 ## 👨‍💻 Author
 
-**Love Pehlaj**
+**Love Kumar**
 
 BBIT Student | Frontend Developer | React.js Developer
 
